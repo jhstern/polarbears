@@ -15,7 +15,7 @@ author: Jennifer H. Stern
 
 navbar-links:
   About Me: "aboutme"
-  Outreach: "outreach.md"
+  Outreach: "outreach"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
