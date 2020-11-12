@@ -4,12 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jennifer Stern. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I study polar bears.
+- I am a PhD student in the Laidre Lab.
 
-What else do you need?
+Here is a sentence that says something else.
 
 ### My story
 
