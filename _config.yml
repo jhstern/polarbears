@@ -16,6 +16,7 @@ author: Jennifer H. Stern
 navbar-links:
   About Me: "aboutme"
   Outreach: "outreach"
+  CV: "/cv/Stern_CV.pdf"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
